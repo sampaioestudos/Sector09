@@ -1,0 +1,6 @@
+{
+  "name": "SECTOR 09: FALLOUT",
+  "description": "A neo-noir 3D first-person portal puzzle game set in a destroyed underground nuclear research facility.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
